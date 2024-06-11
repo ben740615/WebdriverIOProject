@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jun 10 00:01:51 BST 2024","Mon Jun 10 00:01:56 BST 2024","4567","","Contact Us Page","","","","Valid Submission - Submit all information",""
+"passed","Mon Jun 10 00:01:56 BST 2024","Mon Jun 10 00:01:58 BST 2024","2088","","Contact Us Page","","","","Invalid Submission - Partial Submission",""
+"passed","Mon Jun 10 00:02:00 BST 2024","Mon Jun 10 00:02:00 BST 2024","588","","Contact Us Page","","","","Submit Random Data",""
+"passed","Mon Jun 10 00:01:51 BST 2024","Mon Jun 10 00:01:52 BST 2024","1122","","add items to basket","","","","add specific skincare product to basket and validate cart total",""
+"passed","Mon Jun 10 00:01:58 BST 2024","Mon Jun 10 00:02:00 BST 2024","2082","","Contact Us Page","","","","Only Type the first name",""
